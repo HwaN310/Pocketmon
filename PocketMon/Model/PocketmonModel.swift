@@ -4,7 +4,6 @@
 //
 //  Created by t2023-m0102 on 8/7/24.
 //
-
 import Foundation
 
 // 포켓몬 리스트 응답 모델
